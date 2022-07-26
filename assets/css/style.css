@@ -9,7 +9,7 @@
 
 body {
   text-align: center;
-  background-image: url("/assets/img/pokeground.jpg");
+  background: linear-gradient(360deg, #111C26,#384D59,#4D6873, #0D0D0D);
   background-repeat: no-repeat, repeat;
   background-size: cover;
   position: relative; 
