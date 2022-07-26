@@ -6,7 +6,7 @@ construído com HTML, CSS, javaScript.
 
 usando a API [https://pokeapi.co/](https://pokeapi.co/), para chamar os dados para pokedex.
 
-![149](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9ae5d88-c3e8-4c04-8ede-f85b7cc019c8/Untitled.png)
+![149 poke](https://user-images.githubusercontent.com/105403914/181127051-3052ab23-7516-4a4b-bfb2-8beff6b7364d.png)
 
 ---
 
@@ -17,6 +17,6 @@ usando a API [https://pokeapi.co/](https://pokeapi.co/), para chamar os dados pa
 built with HTML, CSS, javaScript.
 using API [https://pokeapi.co/](https://pokeapi.co/), to call the data for pokedex.
 
-![448](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62d16e2c-5184-439b-a5e2-56ac27b5c3f1/Untitled.png)
+![448 poke](https://user-images.githubusercontent.com/105403914/181127054-9d722173-3578-4ec8-999b-1862902406fa.png)
 
 ---
