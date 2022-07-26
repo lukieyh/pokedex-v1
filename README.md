@@ -6,7 +6,7 @@ construído com HTML, CSS, javaScript.
 
 usando a API [https://pokeapi.co/](https://pokeapi.co/), para chamar os dados para pokedex.
 
-![149](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9ae5d88-c3e8-4c04-8ede-f85b7cc019c8/Untitled.png)
+![Pokedex Dragonite](https://user-images.githubusercontent.com/105403914/181128990-9c473dd4-86ca-4351-b824-8d9df2bbe1f3.png)
 
 ---
 
@@ -17,6 +17,6 @@ usando a API [https://pokeapi.co/](https://pokeapi.co/), para chamar os dados pa
 built with HTML, CSS, javaScript.
 using API [https://pokeapi.co/](https://pokeapi.co/), to call the data for pokedex.
 
-![448](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62d16e2c-5184-439b-a5e2-56ac27b5c3f1/Untitled.png)
+![Pokedex Lucario](https://user-images.githubusercontent.com/105403914/181129003-1089c8d3-10ea-49b3-b6ba-4bd8d0577328.png)
 
 ---
